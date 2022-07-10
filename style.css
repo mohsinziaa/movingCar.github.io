@@ -90,3 +90,57 @@ body {
     transform: translateY(-5px);
   }
 }
+
+@media screen and (max-width: 1200px) {
+  .car {
+    left: 30vw;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .car {
+    left: 28vw;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .car {
+    left: 26vw;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .car {
+    left: 24vw;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .car {
+    left: 21vw;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .car {
+    left: 18vw;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .car {
+    left: 10vw;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .car {
+    left: -5vw;
+  }
+}
+
+@media screen and (max-width: 300px) {
+  .car {
+    left: -10vw;
+  }
+}
